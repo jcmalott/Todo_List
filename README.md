@@ -1,7 +1,7 @@
 Displays a todo list of items to get done. A item can be added to the list or taken away. Uses a database to hold list infomation. 
 Can create another list by add `/SomeName` to the end of the URL.
 
-Express: Go from one webpage to another.
+Express: Go from one webpage to another.  
 Database: mongodb
 
 # HOME 
